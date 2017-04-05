@@ -9,4 +9,5 @@ This repository exists as a public forum to gather users' feedback and discussio
 - If you have more than one bug reports or requirements, please seperate them in different issues if they are not closely related.
 <br>
 If you have multiple issues and bug reports and they are not closely related, we recommend you to separate them in different issues.<br>
-[## Asset Store Link](https://www.assetstore.unity3d.com/#!/content/84068)
+## Asset Store Link
+https://www.assetstore.unity3d.com/#!/content/84068
