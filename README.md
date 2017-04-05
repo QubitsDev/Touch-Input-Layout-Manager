@@ -1,8 +1,8 @@
 # Touch Input Layout Manager
-##This repository is for Bug Report as Support
+## This repository is for Bug Report as Support
 This repository exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements.<br>
 <br>
-##How to report a bug, missing feature, or suggest an enhancement
+## How to report a bug, missing feature, or suggest an enhancement
 - Go to the Issues tab<br>
 - Search the existing issues to see if someone else has already beat you to it.
 - If someone has, feel free to vote that issue up or add your own feedback in a comment.
