@@ -15,9 +15,11 @@ Is a simple yet powerful input tool for the development of your mobile games.<br
 - Turbo Button
 ## HOW TO USE:
 - Drag the Prefab "Canvas (Touch Input Layout Manager)" to the scene hierarchy window.
-- to enter the editing mode add a button and in OnClick () event and select "Touch Input Layout Manager Scripts" then the function OpenEditMode().
+- to enter the editing mode add a button and in OnClick() event and select "Touch Input Layout Manager Scripts" then the function OpenEditMode().
 - The generated files are saved in the default path of persistent data on all platforms.
-- The path is printed in the debug log when it is loaded or saved.
+- Path is printed in the debug log when it is loaded or saved.
+- File name is defined in the "LayoutManager.fileName" string.
+- Format of the file is ".inputProfile"
 ## This repository is for Bug Report as Support
 This repository exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements.<br>
 ## How to report a bug, missing feature, or suggest an enhancement
