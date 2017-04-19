@@ -13,7 +13,7 @@ Is a simple yet powerful input tool for the development of your mobile games.<br
 - D-Pad (Vertical)
 - Simple Button
 - Turbo Button
-## How to use
+## HOW TO USE:
 - Drag the Prefab "Canvas (Touch Input Layout Manager)" to the scene hierarchy window.
 - to enter the editing mode add a button and in OnClick () event and select "Touch Input Layout Manager Scripts" then the function OpenEditMode().
 - The generated files are saved in the default path of persistent data on all platforms.
