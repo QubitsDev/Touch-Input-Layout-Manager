@@ -32,9 +32,9 @@ This repository exists as a public forum to gather users' feedback and discussio
 <br>
 If you have multiple issues and bug reports and they are not closely related, we recommend you to separate them in different issues.
 <br>
-<strong>Asset Store:</strong>
+<strong>Asset Store:</strong><br>
 http://u3d.as/MVK
 <br>
-<strong>WebGL Demo:</strong>
+<strong>WebGL Demo:</strong><br>
 https://qubitsdev.github.io/Touch-Input-Layout-Manager/
 <br>
