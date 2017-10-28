@@ -1,3 +1,4 @@
+![Logo](/Media/Logo.jpg)
 # Touch Input Layout Manager
 This asset allows you to edit the on-screen controls during the game.
 Is a simple yet powerful input tool for the development of your mobile games.<br>
@@ -30,3 +31,9 @@ This repository exists as a public forum to gather users' feedback and discussio
 - If you have more than one bug reports or requirements, please seperate them in different issues if they are not closely related.
 <br>
 If you have multiple issues and bug reports and they are not closely related, we recommend you to separate them in different issues.
+<br>
+<strong>Asset Store:</strong>
+http://u3d.as/MVK
+<strong>WebGL Demo:</strong>
+https://qubitsdev.github.io/Touch-Input-Layout-Manager/
+<br>
